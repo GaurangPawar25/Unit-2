@@ -14,13 +14,6 @@ class Bike extends Car {
         System.out.println("This is bike");
     }
 }
-
-
-
-
-
-
-
 public class MultiLevel {
     public static void main(String[]args){
         Bike bike = new Bike();
